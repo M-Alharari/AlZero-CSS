@@ -1,0 +1,20 @@
+/* 
+ font style
+ font variant
+ font weight
+
+*/
+
+
+
+
+div
+ {
+/* font-style: italic; */
+/* font-variant: small-caps; */
+font-weight: 100;
+ }
+
+ p{
+   text-transform: uppercase;
+ }
