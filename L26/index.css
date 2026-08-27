@@ -1,0 +1,10 @@
+ button{
+  background: #eee;
+  border: none;
+  color: red;
+  cursor: pointer;
+ }
+
+ p{
+  cursor: grab;
+ }
