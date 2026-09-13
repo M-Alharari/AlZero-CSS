@@ -1,0 +1,14 @@
+.Parent {
+  background-color: red;
+  padding: 10px;
+  display: flex; /* يجعل العناصر الداخلية بجانب بعضها تلقائياً */
+}
+
+div {
+  width: 25%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #eee;
+  /* لا تحتاج لـ float هنا نهائياً */
+}

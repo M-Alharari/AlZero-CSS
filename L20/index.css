@@ -1,0 +1,14 @@
+/* Text Spacing 
+-- letter spacing 
+-- indentation 
+-- line height
+-- word spacing + wraping + white space 
+ */
+
+div {
+  background-color: #eee;
+  /* letter-spacing: 2px;
+text-indent: 100px; */
+/* word-spacing: 5px; */
+width: 300px;
+}

@@ -1,0 +1,18 @@
+ /* Text overflow  */
+
+
+
+div {
+  background-color: #eee;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 10px;
+    
+}
+
+div:hover
+{
+  overflow: visible;
+}

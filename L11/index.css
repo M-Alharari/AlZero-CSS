@@ -1,0 +1,33 @@
+/*
+Block
+- take full width if no width
+- add line break
+- respects padding, margin adn width
+
+Inline 
+- does not respects width
+- do not add line break 
+- respects padding, margin (left, right)
+- Allow elements after and before it 
+
+
+Inline-Block
+- Allow elements after and before it 
+-  respects padding, margin adn width
+-
+
+ */
+
+ div {
+  background-color: #eee;
+  padding: 10px;
+  margin: 10px;
+ }
+
+ Span {
+  background-color: #eef;
+  display: inline-block;
+    padding: 20px;  
+
+  margin: 20px;
+ }

@@ -1,0 +1,14 @@
+/* p{
+  color: red;
+}
+div p {
+  color: red;
+} */
+/* 
+.special {
+  color: red;
+} */
+
+div .special {
+  color: red;
+}
