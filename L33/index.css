@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+
+  border-spacing: 0px;
+}
+
+table td {
+  background-color: #eee;
+  padding: 15px;
+  border: solid 1px #ccc;
+}
+
+table thead td {
+  background-color: rgb(80, 8, 8);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-color: rgb(109, 62, 62);
+}
+
+table tbody tr td {
+  text-align: center;
+}
