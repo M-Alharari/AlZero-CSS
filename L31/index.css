@@ -1,0 +1,26 @@
+/* 
+position
+- relative
+- absolute
+- fixed
+- sticky
+*/
+
+div {
+  color: #eee;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+}
+
+.One {
+  background-color: red;
+}
+.Two {
+  background-color: green;
+}
+
+.Three {
+  background-color: blue;
+}
