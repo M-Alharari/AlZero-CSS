@@ -1,0 +1,35 @@
+/* 
+position
+- relative
+- absolute
+- fixed
+- sticky
+*/
+
+body {
+  min-height: 5000px;
+}
+
+div {
+  background-color: red;
+  color: #eee;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+/*  
+.One {
+  background-color: red;
+  position: relative;  
+  position: absolute;
+}
+.Two {
+  background-color: green;
+}
+
+.Parent {
+  width: 400px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+}   */
