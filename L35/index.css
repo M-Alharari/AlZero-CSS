@@ -1,0 +1,26 @@
+/* Pseudo Elements */
+.one span {
+  display: inline-block;
+  font-size: 69px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+.two::first-letter {
+  display: inline-block;
+  font-size: 69px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+.three::first-line {
+  font-weight: bold;
+  color: green;
+}
+
+.four::selection {
+  background-color: black;
+  color: yellow;
+}
